@@ -1,0 +1,6 @@
+createUser,11223344,Jimmy Page,6000
+createUser,55667788,Robert Plant,16000.25
+createUser,99001122,Tibzy Tello,40500.05
+createUser,33445566,Mitchell Modell,2706554.1
+transaction,55667788,99001122,50.95
+transaction,99001122,33445566,12
